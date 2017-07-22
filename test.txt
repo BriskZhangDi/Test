@@ -1,1 +1,2 @@
 1.创建文件。 mkdir name
+2.初始化版本库。 git init
